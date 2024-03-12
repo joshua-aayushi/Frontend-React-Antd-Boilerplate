@@ -5,15 +5,17 @@ A streamlined React boilerplate featuring Ant Design (Antd) UI components for ra
 It includes a pre-configured login component and a sample component to kickstart your React projects with efficiency and style.
 
 **Key Features:**
-React.js with Ant Design (Antd) integration
-Thoughtfully organized project structure
-Ready-to-use login component
-Sample component for quick development start
+React.js with Ant Design (Antd) integration.
+Thoughtfully organized project structure.
+Ready-to-use login component.
+Sample component for quick development start.
 
 
 **Getting Started:**
 Clone the repository: git clone https://github.com/your-username/react-antd-boilerplate.git
+
 Install dependencies: npm install
+
 Start development server: npm start
 
 **Contribution:**
